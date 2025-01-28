@@ -1,0 +1,7 @@
+User Login
+email: user@gmail.com
+password: EAU123
+
+Admin Login
+email: admin@gmail.com
+password: EAAdmin123
